@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    font-size: 80px;
+}
+
+a:link{
+    color: red;
+}
+a:visited
+{
+    color: gray;
+    text-decoration: underline;
+}
+a:hover
+{
+    color: blue;
+}
+a:active
+{
+    color:black;
+}
